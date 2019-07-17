@@ -1,3 +1,11 @@
+## 1.0.0
+
+- **Update**
+  - Stable Release
+  - Production Ready
+- **What's Next**
+  - Adding more brands
+
 ## 0.0.2
 
 - **Update**
