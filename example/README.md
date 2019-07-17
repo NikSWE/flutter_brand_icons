@@ -1,16 +1,31 @@
-# example
+# Brand Icons Example
 
-A new Flutter project.
+Showcases a gridview consisting of all the **614** fabulous icons
 
-## Getting Started
+## Clone Example
 
-This project is a starting point for a Flutter application.
+In terminal run
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/muj-programmer/flutter_brand_icons.git && cd flutter_brand_icons
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Installation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In the root directory run
+
+```dart
+flutter pub get
+```
+
+This will fetch all the dependencies for this project
+
+## Run
+
+In the root directory run
+
+```dart
+flutter run --release
+```
+
+This will execute the project in release mode
