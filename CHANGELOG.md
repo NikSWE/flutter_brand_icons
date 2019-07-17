@@ -1,4 +1,4 @@
-## 1.0.0
+## 1.1.0
 
 - **New Features**
   - Added 41 new icons
