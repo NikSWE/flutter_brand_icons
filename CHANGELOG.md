@@ -1,3 +1,6 @@
-## [0.0.1] - TODO: Add release date.
+## 0.0.1
 
-* TODO: Describe initial release.
+- **New Features**
+  - 614 Brand Icons
+  - Androidx Compatible
+  - Supports iOS
