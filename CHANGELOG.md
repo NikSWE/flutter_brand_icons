@@ -1,5 +1,10 @@
 ## 1.0.0
 
+- **New Features**
+  - Added 41 new icons
+
+## 1.0.0
+
 - **Update**
   - Stable Release
   - Production Ready

@@ -1,6 +1,6 @@
 ![repo-header](github_assets/header.jpg)
 
-# flutter_brand_icons _v1.0.0_
+# flutter_brand_icons _v1.1.0_
 
 ## [See Catalog](https://simpleicons.org/)
 
@@ -18,7 +18,7 @@ Apple Pay => applepay
 
 if still you face any problems have a look into the documentation (class BrandIcons), you could also checkout the [example app](https://pub.dev/packages/flutter_brand_icons#-example-tab-) for a comprehensive catalog with the proper naming system
 
-## **614 Brand Icons for Flutter**
+## **655 Brand Icons for Flutter**
 
 This Flutter package allows you to use all the [Brand Icons](https://simpleicons.org/) created by [Dan Leech](https://twitter.com/bathtype) and [others](https://github.com/orgs/simple-icons/people)
 
