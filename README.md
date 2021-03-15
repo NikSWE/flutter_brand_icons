@@ -1,3 +1,5 @@
+Use this [package](https://pub.dev/packages/simple_icons) instead of this.
+
 ![repo-header](github_assets/header.jpg)
 
 # flutter_brand_icons _v1.1.0_
