@@ -22,7 +22,7 @@ void main(List<String> args) {
     "class BrandIcons {\n"
   ];
 
-  for (Map<String, dynamic> icon in icons as Iterable<Map<String, dynamic>>) {
+  for (Map<String, dynamic> icon in icons) {
     icon.forEach((String iconName, dynamic iconUnicode) => generatedOutput.add(
         "static const IconData ${ReCase(iconName).camelCase} = const BrandIconData(0x$iconUnicode);\n"));
   }

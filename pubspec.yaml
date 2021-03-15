@@ -1,11 +1,11 @@
 name: flutter_brand_icons
 description: A collection of simply beautiful open source brand icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and usability.
-version: 1.1.0-null-safety
+version: 1.1.0
 author: Nikhil Anand <nick.muj.programmer@gmail.com>
 homepage: https://github.com/muj-programmer/flutter_brand_icons
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  recase: ^4.0.0-nullsafety.0
+  recase: ^2.0.1
 
 flutter:
   fonts:
